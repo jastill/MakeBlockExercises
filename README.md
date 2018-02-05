@@ -7,6 +7,10 @@ http://www.mblock.cc/
 ## Temperature
 This is a simple exercise that reads temperature and then diplays it on the 7 Segment Display attached to the device and also in the Scratch sprite 
 
+The [Me Temperature Sensor](http://store.makeblock.com/me-temperature-sensor-waterproof-ds18b20/) is connected to Port 3 with the [Me RJ25 Connector](http://store.makeblock.com/me-rj25-adapter).
+
+The [Me 7 Segment Display](http://store.makeblock.com/me-7-segment-serial-display-red) is connected to port 6.
+
 ### Scratch Mode
 ![alt Scratch](https://raw.githubusercontent.com/jastill/makeblockexercises/master/images/ScratchMode.PNG)
 
