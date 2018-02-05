@@ -23,5 +23,8 @@ project_temperature1_0.ino:19:5: error: 'seg7_6' was not declared in this scope
 project_temperature1_0.ino:19:27: error: 'temperature_3_2' was not declared in this scope
 'MeTemperature' does not name a type
 
+The fixed Arduino Code can be found here:
+https://raw.githubusercontent.com/jastill/makeblockexercises/master/Temperature%20Reading/project_temperature1_0/project_temperature1_0.ino 
+
 ![alt Arduino](https://raw.githubusercontent.com/jastill/makeblockexercises/master/images/ArduinoMode.PNG)
 
