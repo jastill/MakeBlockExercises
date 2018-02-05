@@ -4,13 +4,13 @@ Makeblock exercises for the Starter Robot
 Exercises created for the makeblock starter robot:
 http://www.mblock.cc/ 
 
-# # Temperature
+## Temperature
 This is a simple exercise that reads temperature and then diplays it on the 7 Segment Display attached to the device and also in the Scratch sprite 
 
-# # # Scratch Mode
+### Scratch Mode
 ![alt Scratch](https://raw.githubusercontent.com/jastill/makeblockexercises/master/images/ScratchMode.PNG)
 
-# # # Arduino Mode
+### Arduino Mode
 This mode has a quirk as of version v3.4.1.1 of mBlock. The Arduino code does not insert the include for "MeOrion.h". This needs to be added in the Arduino IDE for the code to compile and be able to be uploaded.
 
 Trying to upload from Arduino Mode in mBlock results in the following error:
