@@ -14,7 +14,7 @@ The [Me 7 Segment Display](http://store.makeblock.com/me-7-segment-serial-displa
 ![alt Scratch](https://raw.githubusercontent.com/jastill/makeblockexercises/master/images/ScratchMode.PNG)
 
 ### Arduino Mode
-This mode has a quirk as of version v3.4.1.1 of mBlock. The Arduino code does not insert the include for "MeOrion.h". This needs to be added in the Arduino IDE for the code to compile and be able to be uploaded.
+This mode has a quirk as of version v3.4.1.1 of mBlock. The Arduino code on Windows 10 (it works on OS X) does not insert the include for "MeOrion.h". This needs to be added in the Arduino IDE for the code to compile and be able to be uploaded.
 
 Trying to upload from Arduino Mode in mBlock results in the following error:
 
